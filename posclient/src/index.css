@@ -1,0 +1,29 @@
+.catagory-active{
+    border:2px solid green;
+    background-color:gray;
+}
+
+.register{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+}
+.register input{
+    width: 400px !important;
+}
+.register-form{
+    background-color: aquamarine;
+    padding: 20px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+.register-form h1{
+    text-align: center;
+    background-color: rgb(11, 11, 96);
+    color: white;
+    padding: 10px;
+}
+.register-form h3{
+ text-align: center;
+}
